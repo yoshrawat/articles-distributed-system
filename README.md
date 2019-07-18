@@ -7,3 +7,6 @@
 
 ## Consistent Hashing
 1. https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f
+
+## Cap Theorem
+1. https://medium.com/@ravindraprasad/cap-theorem-simplified-28499a67eab4
